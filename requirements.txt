@@ -1,0 +1,6 @@
+torch
+torchvision
+kagglehub
+grad-cam==1.5.5
+matplotlib
+numpy
