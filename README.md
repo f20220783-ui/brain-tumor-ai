@@ -13,8 +13,8 @@ An educational deep learning project that classifies brain MRI scans into four c
   * `glioma`: 79.2% (317/400)[cite: 11]
 
 ## Grad-CAM Visualizations
-![Grad-CAM Prediction](gradcam_heatmap.png)
-![Error Analysis Heatmaps](error_heatmaps.png)
+![Grad-CAM Prediction](results/gradcam_heatmap.png)
+![Error Analysis Heatmaps](results/error_heatmaps.png)
 
 ## How to Run Locally
 1. Create and activate a virtual environment, then install dependencies:
